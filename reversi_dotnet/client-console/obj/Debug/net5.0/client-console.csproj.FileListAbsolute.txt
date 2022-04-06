@@ -1,0 +1,16 @@
+D:\source\repos\reversi_dotnet\client-console\bin\Debug\net5.0\client-console.exe
+D:\source\repos\reversi_dotnet\client-console\bin\Debug\net5.0\client-console.deps.json
+D:\source\repos\reversi_dotnet\client-console\bin\Debug\net5.0\client-console.runtimeconfig.json
+D:\source\repos\reversi_dotnet\client-console\bin\Debug\net5.0\client-console.runtimeconfig.dev.json
+D:\source\repos\reversi_dotnet\client-console\bin\Debug\net5.0\client-console.dll
+D:\source\repos\reversi_dotnet\client-console\bin\Debug\net5.0\ref\client-console.dll
+D:\source\repos\reversi_dotnet\client-console\bin\Debug\net5.0\client-console.pdb
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\net5.0\client-console.csprojAssemblyReference.cache
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\net5.0\client-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\net5.0\client-console.AssemblyInfoInputs.cache
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\net5.0\client-console.AssemblyInfo.cs
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\net5.0\client-console.csproj.CoreCompileInputs.cache
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\net5.0\client-console.dll
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\net5.0\ref\client-console.dll
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\net5.0\client-console.pdb
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\net5.0\client-console.genruntimeconfig.cache

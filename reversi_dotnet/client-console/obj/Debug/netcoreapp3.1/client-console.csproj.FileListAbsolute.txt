@@ -1,0 +1,4 @@
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\netcoreapp3.1\client-console.csprojAssemblyReference.cache
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\netcoreapp3.1\client-console.AssemblyInfoInputs.cache
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\netcoreapp3.1\client-console.AssemblyInfo.cs
+D:\source\repos\reversi_dotnet\client-console\obj\Debug\netcoreapp3.1\client-console.csproj.CoreCompileInputs.cache
